@@ -1,6 +1,9 @@
 ## TECH NEWS - Your local blog!
 ## Description
 Writing about tech can be just as important as making it! Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. This application does just that - a local place where developers can publish their ideas, news or just open throughts about what is happening within the tech world today.
+
+GitHub:  https://jarellano562.github.io/mvc-tech-blog/
+Heroku:  https://frozen-cliffs-59508.herokuapp.com/
 ## Mock Up 
 ![MOCKUP](mockup.png) 
 ## User Story
